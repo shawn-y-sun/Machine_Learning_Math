@@ -1,4 +1,4 @@
-# Mathematics for Machine Learning - Code Template
+# Mathematics for Machine Learning - Code Templates
 
 ## 1. Linear Algebra
 **Identifying Special Matrices**
